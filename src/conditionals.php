@@ -73,6 +73,21 @@ $first_name = array(
 );
 echo $first_name['Sagar'];
 
+echo '<br>';
+echo '<br>';
+echo '<br>';
+
+$month = 'January';
+
+if($month== 'June' && $month!== 'July')
+{
+	echo 'This is not January';
+}
+
+else {
+	
+	echo 'This is january';
+}
 
 
 
