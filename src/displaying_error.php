@@ -2,7 +2,7 @@
 $name = "Sagar";
 // Not inistialized $firstName variable
 //$firstName = "Alamgir";
-//Have to iitialize $firstName --- which is php.ini file
+//Have to iitialize $firstName
 $firstName = "Alamgir";
 echo "Hello $name";
 
